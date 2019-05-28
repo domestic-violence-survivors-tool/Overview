@@ -19,8 +19,19 @@ Financial insecurity is the No. 1 reason survivors of domestic violence remain i
 
 ### Onboarding
 - A domestic violence survivor can come to the page and insert their data into the online calculator.
-
-
+- There will be two sections of the calculator:
+  1. A monthly personal budget, and 
+  2. The costs of relocating
+- The monthly personal budget will allow user to enter their ongoing unavoidable costs they might have while trying to relocate. The fields include;
+  1. Transportation,
+  2. Food,
+  3. Health Insurance, 
+  4. car insurance,
+  5. car loans, 
+  6. personal loans, and 
+  7. other expenses
+- The relocation costs include: nightly hotel costs while in transit (if applicable), new rental deposit, utility connection fees, storage unit, new monthly rent (if they already know this number), car rental and gas (if don't own a car), cell phone disconnection/connect fee (if they have to get a new number), moving truck rental, gas for moving truck, storage unit if unable to take their things with them, mental health treatment, income loss (what they are loosing by leaving their current job), cost of any additional security measures they must take
+- After they have entered these fields, a page will show up combining their total monthly expenses plus the monthly cost of relocation.
 
 ## Deployment:
 Recommend to deploy your server to [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs), and your front end to [netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/). Both services provide free tiers and easy to use interfaces. 
