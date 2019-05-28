@@ -40,7 +40,7 @@ It is recommended that you keep your front end and backend codebases in separate
 
 ## Technical Design Document
 Read Only:
-[TDD](https://docs.google.com/document/d/1Zk0224RCMS2VScKe5QaRdYAdpSe4pqCUwxn4rtVCzVQ/edit?usp=sharing)
+[TDD](https://docs.google.com/document/d/1oabDelU1GJF_3JgsIaddj6hMjEKj2l7ikTVJjK1H9xQ/edit?usp=sharing)
 
 ## Resources
 
