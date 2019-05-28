@@ -30,7 +30,20 @@ Financial insecurity is the No. 1 reason survivors of domestic violence remain i
   5. car loans, 
   6. personal loans, and 
   7. other expenses
-- The relocation costs include: nightly hotel costs while in transit (if applicable), new rental deposit, utility connection fees, storage unit, new monthly rent (if they already know this number), car rental and gas (if don't own a car), cell phone disconnection/connect fee (if they have to get a new number), moving truck rental, gas for moving truck, storage unit if unable to take their things with them, mental health treatment, income loss (what they are loosing by leaving their current job), cost of any additional security measures they must take
+- The relocation costs include: 
+  - nightly hotel costs while in transit (if applicable), 
+  - new rental deposit, 
+  - utility connection fees, 
+  - storage unit, 
+  - new monthly rent (if they already know this number), 
+  - car rental and gas (if don't own a car), 
+  - cell phone disconnection/connect fee (if they have to get a new number), 
+  - moving truck rental, 
+  - gas for moving truck, 
+  - storage unit if unable to take their things with them,
+  - mental health treatment, 
+  - income loss (what they are loosing by leaving their current job), 
+  - cost of any additional security measures they must take
 - After they have entered these fields, a page will show up combining their total monthly expenses plus the monthly cost of relocation.
 
 ## Deployment:
